@@ -49,7 +49,7 @@ When you create a resume website, it should reflect who you are, rather than sim
 
 # Theme and Design
 
-In our resume website we will use [one pager template](https://onepagelove.com/templates/free-templates/page/2) which is often the best choice for a resume site. It’s smart to keep your resume site concise and easy to work through quickly. After all, employers usually have a lot of applications to read.
+In our resume website we will use [one pager template](https://wordpress.org/themes/search/one%20pager/) which is often the best choice for a resume site. It’s smart to keep your resume site concise and easy to work through quickly. After all, employers usually have a lot of applications to read.
 
 A one-page theme also makes it easy to create dedicated sections for each type of information, such as your biography, work history, and references.
 

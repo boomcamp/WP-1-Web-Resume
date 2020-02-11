@@ -44,11 +44,18 @@ When you create a resume website, it should reflect who you are, rather than sim
 
 ### Download Resume
 
-* A downloadable version of your physical resume.
+* A downloadable version of your physical resume (optional).
 
-# Custom Plugin
+# Plugin
 
-//TODO
+Create a custom plugin of your `Work history` and it should be display in table format.
+
+Helpers:
+
+- [ObjGen - Live JSON Generator](http://www.objgen.com/json)
+
+- [Using wp_remote_get() to parse JSON from remote APIs](https://pippinsplugins.com/using-wp_remote_get-to-parse-json-from-remote-apis/)
+
 
 # Theme and Design
 

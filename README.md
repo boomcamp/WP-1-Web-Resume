@@ -52,9 +52,9 @@ Create a custom plugin of your `Work history` and it should be display in table 
 
 Helpers:
 
-- [ObjGen - Live JSON Generator](http://www.objgen.com/json)
+- [Live JSON Generator](http://www.objgen.com/json)
 
-- [Using wp_remote_get() to parse JSON from remote APIs](https://pippinsplugins.com/using-wp_remote_get-to-parse-json-from-remote-apis/)
+- [Parse JSON from remote APIs](https://pippinsplugins.com/using-wp_remote_get-to-parse-json-from-remote-apis/)
 
 
 # Theme and Design

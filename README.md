@@ -70,7 +70,7 @@ A one-page theme also makes it easy to create dedicated sections for each type o
 
 # Database Design 
 
-There is no specific database design for our resume template you have the freedom to create the tables.
+There is no specific database design for our resume website, you have the an option to create your own custom tables.
 
 # Finished
 

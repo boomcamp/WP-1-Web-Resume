@@ -48,9 +48,11 @@ When you create a resume website, it should reflect who you are, rather than sim
 
 # Plugin
 
-Create a custom plugin of your `Work history` and it should be display in table format, store your generated json file using [gist](https://gist.github.com/). look for this [example](https://gist.githubusercontent.com/thomasdavis/c9dcfa1b37dec07fb2ee7f36d7278105/raw/eb7968eb551bee9e3136b420394549b9680439d4/resume.json)
+Create a custom plugin of your `Work history` your work history should be display in `table format`, store your generated json file using [gist](https://gist.githubusercontent.com/thomasdavis/c9dcfa1b37dec07fb2ee7f36d7278105/raw/eb7968eb551bee9e3136b420394549b9680439d4/resume.json)
 
 Helpers:
+
+- [gist](https://gist.github.com/)
 
 - [Live JSON Generator](http://www.objgen.com/json)
 

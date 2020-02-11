@@ -52,13 +52,13 @@ When you create a resume website, it should reflect who you are, rather than sim
 
 For our resume website we will need to create a plugin that will display the `Work history` this should be in a `table format`, and can be read using a github [gist](https://gist.githubusercontent.com/thomasdavis/c9dcfa1b37dec07fb2ee7f36d7278105/raw/eb7968eb551bee9e3136b420394549b9680439d4/resume.json)
 
-Helpers:
+Tools/Helpers:
 
-- [gist](https://gist.github.com/)
+* [gist](https://gist.github.com/)
 
-- [Live JSON Generator](http://www.objgen.com/json)
+* [Live JSON Generator](http://www.objgen.com/json)
 
-- [Parse JSON from remote APIs](https://pippinsplugins.com/using-wp_remote_get-to-parse-json-from-remote-apis/)
+* [Parse JSON from remote APIs](https://pippinsplugins.com/using-wp_remote_get-to-parse-json-from-remote-apis/)
 
 
 # Theme and Design

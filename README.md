@@ -18,17 +18,19 @@ When you create a resume website, it should reflect who you are, rather than sim
 
 * You can add your work history from your previous Boom.Camp expirience.
 
+* Technical Skills, Programming languages etc
+
 ### Character References
 
-* These are the people that can be contact by the employer
+* These are the people that can contact by the employer
 
 ### Contact information
 
-* You contact details cell number, phone, email etc.
+* Your cellphone number, phone, email etc.
 
 ### Portfolio
 
-* Samples of your past work (e.g mini projects AddresBook, Handraiser).
+* Samples of your past work (e.g Javascript Projects, AddresBook, Handraiser).
 
 ### Biography
 
@@ -48,7 +50,7 @@ When you create a resume website, it should reflect who you are, rather than sim
 
 # Plugin
 
-Create a custom plugin of your `Work history` your work history should be display in `table format`, store your generated json file using [gist](https://gist.githubusercontent.com/thomasdavis/c9dcfa1b37dec07fb2ee7f36d7278105/raw/eb7968eb551bee9e3136b420394549b9680439d4/resume.json)
+For our resume website we will need to create a plugin that will display the `Work history` this should be in a `table format`, and can be read using a github [gist](https://gist.githubusercontent.com/thomasdavis/c9dcfa1b37dec07fb2ee7f36d7278105/raw/eb7968eb551bee9e3136b420394549b9680439d4/resume.json)
 
 Helpers:
 

@@ -74,7 +74,7 @@ A one-page theme also makes it easy to create dedicated sections for each type o
 
 # Database Design 
 
-There is no specific database design for our resume website, you have the an option to create your own custom tables.
+There is no specific database design for our resume website, create your own custom tables and implement custom queries using `wpdb` or use the `WP_query` to loop the post or category.
 
 # Finished
 

@@ -1,4 +1,4 @@
-# Resume Website (Theme from Scratch)
+# Resume Website
 
 Traditional paper resumes are ubiquitous and have their advantages. They’re convenient, lightweight, and concise. However, job seekers now have another option – to create a dedicated website for their resume.
 
@@ -67,10 +67,9 @@ Tools/Helpers:
 
 # Theme and Design
 
-In our resume website we will use [one pager template](https://wordpress.org/themes/search/one%20pager/) which is often the best choice for a resume site. It’s smart to keep your resume site concise and easy to work through quickly. After all, employers usually have a lot of applications to read.
+Option#1: Use [one pager template](https://wordpress.org/themes/search/one%20pager/) which is often the best choice for a resume site.
 
-A one-page theme also makes it easy to create dedicated sections for each type of information, such as your biography, work history, and references.
-
+Option#2: Create your theme from scratch.
 
 # Database Design 
 

@@ -48,7 +48,7 @@ When you create a resume website, it should reflect who you are, rather than sim
 
 * A downloadable version of your physical resume (optional).
 
-# Onsite Optimization
+# Url
 
 * Every web page should be in a readable and freindly format url e.g `http://localhost/jino-resume/my-work-history`
 

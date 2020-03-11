@@ -1,4 +1,4 @@
-# Resume Website
+# Introduction
 
 Traditional paper resumes are ubiquitous and have their advantages. They’re convenient, lightweight, and concise. However, job seekers now have another option – to create a dedicated website for their resume.
 

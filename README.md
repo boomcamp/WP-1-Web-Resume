@@ -73,7 +73,7 @@ Option#2: Create your theme from scratch.
 
 # Database Design 
 
-There is no specific database design for our resume website, create your own custom tables and implement custom queries using `wpdb` or use the `WP_query` to loop the post or category.
+Create your own custom tables and implement custom queries using wordpress `wpdb` and use `WP_query` to loop the post or category.
 
 # Finished
 

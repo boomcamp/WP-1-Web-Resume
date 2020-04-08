@@ -65,7 +65,7 @@ You can use the following tools to create json.
 
 - Create your own custom database and implement wordpress `new wpdb()` with various queries.
 
-- To use`WP_query` to loop the post or category is a plus.
+- Ussage of`WP_query` to loop posts or category is a plus.
 
 # Finished
 

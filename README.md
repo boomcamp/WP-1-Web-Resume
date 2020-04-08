@@ -44,9 +44,9 @@ You will need to create the theme of this project from `scratch`.
 
 # Theme functions
 
-For our resume website we will need to create a shortcode that will display work experiences under `My Work History` page, this should be an external api or by using the github [gist](https://gist.githubusercontent.com/thomasdavis/c9dcfa1b37dec07fb2ee7f36d7278105/raw/eb7968eb551bee9e3136b420394549b9680439d4/resume.json)
+For our resume website we will need to create a shortcode that will display work experiences under `My Work History` page, this should be an external api.
 
-You can use the ff tools to create json
+You can use the following tools to create json.
 
 * [gist](https://gist.github.com/)
 

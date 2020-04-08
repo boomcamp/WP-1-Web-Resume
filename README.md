@@ -1,6 +1,6 @@
 # Introduction
 
-You will need to create the theme of this project from scratch.
+You will need to create the theme of this project from `scratch`.
 
 # Pages
 
